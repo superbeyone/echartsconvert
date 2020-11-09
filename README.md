@@ -1,3 +1,10 @@
+# 前记：
+
+本源码下载于 https://gitee.com/saintlee/echartsconvert
+并在其基础上进行修改以满足自身的业务（渲染 点、线、面数据）需求
+
+后台地址 https://github.com/superbeyone/cloud-server-render
+
 # PhantomJS在服务端生成ECharts图片
 
  **主要功能：给定ECharts的option参数，生成ECharts图片，并以Base64字符串返回。** 
