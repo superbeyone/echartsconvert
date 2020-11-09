@@ -1,4 +1,4 @@
-# 前记：
+# 前言：
 
 本源码下载于 https://gitee.com/saintlee/echartsconvert
 并在其基础上进行修改以满足自身的业务（渲染 点、线、面数据）需求
